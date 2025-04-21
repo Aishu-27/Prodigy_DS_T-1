@@ -37,4 +37,5 @@ Practicing data storytelling techniques
 For any questions or feedback, feel free to connect with me on www.linkedin.com/in/aishwarya-udhaya-kumar-873438322
 
 **Image:** 
-![Uploading Prodigy DS Task 1.png…]()
+![Prodigy DS Task 1](https://github.com/user-attachments/assets/2aa73830-0561-4bae-97ee-e53d095e06dc)
+
